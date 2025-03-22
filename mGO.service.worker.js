@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1742676839|2734611723';
+const CACHE_VERSION = '1742677090|2985667980';
 /** @type {string} */
 const CACHE_PREFIX = 'mGO-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
