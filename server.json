@@ -1,6 +1,6 @@
 {
   "servers": [
-    { "id": 1, "name": "Server online", "address": "wss://ultra-promising-accounts-identifying.trycloudflare.com" },
+    { "id": 1, "name": "Server online", "address": "wss://projector-cent-id-walking.trycloudflare.com" },
     { "id": 2, "name": "Server local", "address": "ws://127.0.0.1:8669" }
   ]
 }
